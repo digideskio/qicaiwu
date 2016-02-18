@@ -17,4 +17,4 @@
   * [About project](https://github.com/senntyou/qicaiwu/about-project.htm)
 
 ## Demo
-  * [qicaiwu](http://senntyou.github.io/qicaiwu)
+  * [qicaiwu](http://senntyou.github.io/qicaiwu/)

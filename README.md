@@ -6,15 +6,15 @@
   * 丰富的标签，专辑与画廊，收藏、下载
   
 ## Images
-![](./samples/sample-images-vertical.jpg)
-![](./samples/sample-images-horizontal.jpg)
-![](./samples/sample-images-panel.jpg)
-![](./samples/sample-user.jpg)
-![](./samples/sample-upload.jpg)
+![](./codes/samples/sample-images-vertical.jpg)
+![](./codes/samples/sample-images-horizontal.jpg)
+![](./codes/samples/sample-images-panel.jpg)
+![](./codes/samples/sample-user.jpg)
+![](./codes/samples/sample-upload.jpg)
 
 ## Story
-  * About me [Qicaiwu](https://github.com/senntyou/qicaiwu/about-me.htm)
-  * About project [Qicaiwu](https://github.com/senntyou/qicaiwu/about-project.htm)
+  * [About me](https://github.com/senntyou/qicaiwu/about-me.htm)
+  * [About project](https://github.com/senntyou/qicaiwu/about-project.htm)
 
 ## Demo
   * [qicaiwu](http://senntyou.github.io/qicaiwu)

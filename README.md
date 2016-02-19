@@ -5,6 +5,9 @@
   * 发现高品质图片与生活
   * 丰富的标签，专辑与画廊，收藏、下载
   
+## Notice
+  * No commercial use, just for study.
+  
 ## Images
 ![](./codes/samples/sample-images-vertical.jpg)
 ![](./codes/samples/sample-images-horizontal.jpg)
